@@ -11,6 +11,7 @@ import {
   Container,
   Icon
 } from 'native-base'
+
 import ImagePicker from 'react-native-image-picker'
 import { Actions } from 'react-native-router-flux'
 
